@@ -2,6 +2,8 @@
 
 Learn to code in Python, one bite at a time.
 
+**This tutorial is under construction and incomplete.**
+
 ## Who is TastyPy for?
 There are many types of programmers. While some people write code for their day job, many people program for pure fun, using code as a medium to create personal apps, games, music, or visual art. 
 
