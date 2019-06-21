@@ -1,4 +1,4 @@
-# TastyPy 🥧🐍 
+![TastyPy Logo](tastypy_logo_large.png)
 
 Learn to code in Python, one bite at a time.
 
